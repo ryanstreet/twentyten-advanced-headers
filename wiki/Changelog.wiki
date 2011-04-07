@@ -1,0 +1,7 @@
+#summary History of Stable releases.
+
+= Changelog =
+
+== 1.0 ==
+Release Date: April 7th, 2011
+  * Initial Plugin Release
