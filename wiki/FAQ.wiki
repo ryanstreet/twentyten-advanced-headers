@@ -1,0 +1,13 @@
+#summary Frequently Asked Questions
+
+== Where are the options? ==
+
+In the Administration panel, go under the appearance tab.  The options are under the menu named *Adv. Headers.*
+
+== Can I still use custom headers? ==
+
+Yes! Custom headers will still be applied if you use them.  If no page specific headers exist, the plugin will show a header of your choice.
+
+== What if I don't want a header for a certain category? ==
+
+Simply don't enter a URL into the category text box and the default one will show instead.
