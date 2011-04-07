@@ -1,0 +1,17 @@
+#summary Installation Instructions.
+
+= Installation =
+
+You can install your plugin in one of two ways. 
+
+== Plugin Installer ==
+  # After you have downloaded your file, log into your WordPress Admin Section.
+  # Go to Plugins-> Add New.
+  # Go to the Upload Link.
+  # Navigate to your file.
+  # Click on the Upload Button.
+  # After it is has installed, click on the Activation Link.
+
+== Manual ==
+  # Upload cool-ryan-easy-popups plugin folder to the `/wp-content/plugins/` directory.
+  # Activate the plugin through the 'Plugins' menu in WordPress.
