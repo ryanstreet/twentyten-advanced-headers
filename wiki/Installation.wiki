@@ -13,5 +13,5 @@ You can install your plugin in one of two ways.
   # After it is has installed, click on the Activation Link.
 
 == Manual ==
-  # Upload cool-ryan-easy-popups plugin folder to the `/wp-content/plugins/` directory.
+  # Upload the twentyten-advanced-header.php file to the `/wp-content/plugins/` directory.
   # Activate the plugin through the 'Plugins' menu in WordPress.
