@@ -1,6 +1,6 @@
-=== Twentyten Header Rotator ===
+=== Twentyten Advanced Headers ===
 Contributors: ryanstreet
-Tags: twentyten, header, rotator
+Tags: twentyten, header, rotator, advanced
 Requires at least: 3.0
 Tested up to: 3.1
 Stable tag: 1.0
@@ -18,7 +18,7 @@ Now you can showcase custom headers for each category inside your Twentyten them
 
 **Plugin Reference**
 
-[Report A Bug](http://code.google.com/p/twentyten-advanced-headers/issues/list) | [Source Code](http://code.google.com/p/twentyten-advanced-headers/source/checkout) | [Wiki](http://code.google.com/p/twentyten-advanced-headers/w/list)
+[Development Blog](http://www.coolryan.com/advancedheaders/) | [Report A Bug](http://code.google.com/p/twentyten-advanced-headers/issues/list) | [Source Code](http://code.google.com/p/twentyten-advanced-headers/source/checkout) | [Wiki](http://code.google.com/p/twentyten-advanced-headers/w/list)
 
 
 == Installation ==
